@@ -99,8 +99,7 @@ Here’s an example visualization from the project:
 
 ## 🔮 Future Improvements
 
-- Add a Streamlit dashboard for interactivity  
-- Automate ETL with Airflow or Prefect  
+- Automate ETL with Airflow  
 - Containerize with Docker for easy deployment  
 - Add tests for data validation and schema checks
 
