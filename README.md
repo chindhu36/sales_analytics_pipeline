@@ -107,7 +107,7 @@ Here’s an example visualization from the project:
 
 ## 💡 Why This Project?
 
-This project simulates a real-world scenario where a data engineer must:
+This project simulates a real-world scenario:
 
 - Handle raw CSVs  
 - Design normalized schemas  
